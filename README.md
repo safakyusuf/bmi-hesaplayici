@@ -36,5 +36,11 @@ MIT
 
 ## Ekran Görüntüsü
 
-<img width="300" src="https://github.com/user-attachments/assets/ca526270-d0ff-4317-8a12-292998e8c01b" />
+
 <img width="300" src="https://github.com/user-attachments/assets/18965049-33a9-424d-b253-95eef45a6e82" />
+
+<img width="300" src="https://github.com/user-attachments/assets/ca526270-d0ff-4317-8a12-292998e8c01b" />
+
+<img width="300" src="https://github.com/user-attachments/assets/3a688576-5675-4152-aec2-11c22080435a" />
+
+
